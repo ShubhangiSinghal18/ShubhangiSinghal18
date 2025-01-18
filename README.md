@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=ShubhangiSinghal18&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" > -->
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhangiSInghal18&theme=dark" width="45%" > 
+<!--<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhangiSInghal18&theme=dark" width="45%" > -->
