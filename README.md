@@ -1,4 +1,14 @@
 ### Hi there 👋 
+I’m a frontend developer passionate about building scalable, high-performance web applications. With 2.5+ years of experience, I explore and continuously learn React, JavaScript, and modern web technologies, focusing on clean code, performance optimization, and seamless API integrations.
+
+🔹 Passionate about crafting intuitive user experiences
+🔹 Experienced in Agile workflows & team collaboration
+🔹 Always learning—there’s so much to discover every day!
+
+I love tackling challenges, experimenting with new ideas, and staying up-to-date with the latest trends in web development. Excited to grow and create innovative solutions! 🚀
+
+📬 Let’s connect and build something amazing together!
+📧 Email: shubhangisinghal550@gmail.com
 
 <!--
 **ShubhangiSinghal18/ShubhangiSinghal18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
